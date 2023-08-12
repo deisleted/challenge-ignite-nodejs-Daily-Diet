@@ -31,7 +31,7 @@ A API contém as seguintes funcionalidades:
 
 
 
-### 📝 Estrutura de uma task:
+### 📝 Estrutura dos registros:
 
 - `id` - Identificador único gerado automaticamente.
 - `title` - Título da refeição.
