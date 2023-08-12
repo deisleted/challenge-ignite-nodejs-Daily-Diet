@@ -56,5 +56,6 @@ A API contém as seguintes funcionalidades:
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
+- TypeScript
 - Nodejs
 - Knex (SQLITE)
